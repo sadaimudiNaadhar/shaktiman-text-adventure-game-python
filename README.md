@@ -1,2 +1,5 @@
-# shaktiman-text-adventure-game-python
+# Info
 Shaktiman Text Adventure Game (Educational Purpose)
+
+# Dependencies
+ - pip install playsound
